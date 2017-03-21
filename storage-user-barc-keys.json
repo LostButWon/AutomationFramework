@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "surewaves-test",
+  "private_key_id": "f6d575b631fe74e8bc1b8a8c657ec715924c14e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYKyF7rGJI1QYg\n1Mv1NNR0eVhrLek1BApr5AMSI5eP9BzRT+yrMumocky5BGgGTA7goODWQ7/4ujX+\nxBPwIjus+wfnLkAVZY/A0QEYDd5pCEocWY+u+ON2lPydKhPp7Ttb8f8kQyLjtCsJ\nVYAz76+jdRcfNXOBAQFfn2IND7oy4so95OmviR34z/dzyldS0qdKw+DFFmp6Fs20\n4y/Z+YsQ8nHuYY82N0bg/z1DbziCYrV2bKtRukwblHJLU9ZxGE5kRCTReFTemU9B\nkiFVjZ66eMOZRoYK5+qkxcbpCjv8iXr4/KDDxIbV5hQW2/ad9Lc0rCEGDrtG08Vx\nM4S1WFA/AgMBAAECggEAARPNGOMPjxRzBqh7CTFmj6yMQ7X/gLCWokzq+KXn3M0N\npy25rzydCuRERssRMXo4YL7C2MGCCnDHERayTXDwmzjrxWc+bOhbLDJOn6z5diTo\n4WqA6ew5MA29/B7gJTfYw73i4I7ZIGOWKmrAjZ2U0MNzdnUabD9lkxe9yfnih5mw\npCHIjNLEbNwEjS0jnsRhSN+6i0hHxMTH9OTa+pWUE8UF0JAWRwHNNSXAl909WKPR\nrHDu0TQ5PGmMxAmSytrfCD+jJZFtYoeNUy28xraMiQcnStHOod7mLzf7FHHbqul8\n6gJQ8uvc/9Opb09fhZ7R8BuYg+nmsoAIcbWi8NvlAQKBgQDe1PBJQyOIH5j8VW/Q\nRuQj+uAkhxywPrc/MQpDsXtWwzr1JjEzkRc6X3GBB5HE1Pa1l3vHze30Fkhffc77\n/CH3TPMyy8bR5eBTP5VuTtuwEaguLjgLbylPVCeq7zD2PsTUZnOrIdILkmeZtXsW\nLVqEH35ikI0/SD8UVgM9YqWp1wKBgQCu0YyGtZncrNUZWzbHGSxHCLW2KsMUIstL\nYkvAVFLOCucqQITcJRTlXJw5IpP02Oq5G0vH2mV6+u672605Hfm2eSdZFNMxVxor\nDYn3MP+WnfO3o9RMcPf0oRQDdx/Uw8BVMdswiTklXZyttMtzwPciBOJdoE99+t4a\nE2uBiE5P2QKBgE3OxOiQDQQnJGBX5OcxGdCGdWXL1/SisZHbKd5hRtQQ77FSWLPM\n4fN8CEIpxniYdF0MPCiUe5ZTgYn2gCP08ldMA0+lYBNC1YW8Gg2ec4+TWsplUSSM\n+Du/AurpAou5dzlDXPhQoutvf8VoXUZtJ8IizRrVpryGGaCcOB1jKL2ZAoGAGm6a\nlb+dfO0w5z2QYbgfprndZ6a9iizcmhBJrdHSF080toG81OBScX94K3db8ZhenRBQ\ne+48i8SnFgZYAZvTptBYr7JjYEFwNnQ8mQBylJ5bPDfsIIawJu+36/I2AOB8EyWP\no54L4udtiiIc5OqXMzCT3V4gxsaIkF7BUXt/g7kCgYEA3kAl7frC04A5wlit28I6\nnn1MHhyyNSKopj+Kxp5+KUEt3R/EzeTFeHh/RxggfTog2PQOpjNa784dUc26tyQV\n4rTQ3XHVvOy/oGMQvW+a2e4R5jytGZuRG+QR2zYJBczHONBHEIQd/60czJo/VcbZ\nJbbzGv9TPC+bSGvD8G7z1J8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage-user-barc@surewaves-test.iam.gserviceaccount.com",
+  "client_id": "114931527386963066923",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-user-barc%40surewaves-test.iam.gserviceaccount.com"
+}

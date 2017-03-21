@@ -1,0 +1,31 @@
+{
+    "storage": {
+        "type": "GOOGLE",
+        "path_to_json_key": "./storage-user-barc-keys.json",
+        "project": "surewaves-skynet",
+        "bucket": {
+            "audience": "audience-data-barc"
+        }
+    },
+    "release": "dev",
+    "server": {
+        "_net_base_url": "http://104.199.168.4:8010/v1/",
+        "_test_base_url": "http://104.199.198.109:8010/v1/",
+        "_prod_base_url": "http://104.199.217.82:8010/v1/",
+        "_demo_base_url": "http://104.199.181.150:8010/v1/",
+        "_sim_base_url": "http://107.167.190.126:8010/v1/",
+        "_local_base_url": "http://localhost:8010/v1/",
+        "base_url": "http://localhost:8010/v1/",
+        "audience_update": "barcaudience/",
+        "channel_sync": "barcchannel/sync/",
+        "channel_synctimestamp": "barcchannel/synctimestamp/"
+    },
+    "data": {
+        "path_audience_data_daypart": "./data/audience/daypart/",
+        "path_audience_data_halfhour": "./data/audience/halfhour/",
+        "path_channel_list": "./data/channel/",
+        "path_success": "./data/success/",
+        "path_reject": "./data/reject/"
+    },
+    "tmp": "./tmp"
+}
