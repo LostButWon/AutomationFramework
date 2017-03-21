@@ -14,9 +14,7 @@ public class SampleCode
 
 	public static void main(String[] args) {
 		
-System.out.println("git hub code");
-System.out.println("this is the second statement");
-System.out.println("this is the third update statement");
+System.out.println("NEW FILE");
 		
 	}
 	
