@@ -1,12 +1,6 @@
 package exp1;
 
 
-
-
-
-//import org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List;
-
-
 public class SampleCode
 {
 
